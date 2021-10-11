@@ -44,7 +44,7 @@ def sample_extractive_summarization():
                         {
                             "parameters": {
                             "model-version": "latest",
-                            "sentenceCount": 5,
+                            "sentenceCount": 3,
                             "sortBy": "Offset"
                             }
                         }
