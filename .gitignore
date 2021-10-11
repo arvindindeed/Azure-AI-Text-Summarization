@@ -126,7 +126,7 @@ dmypy.json
 bin
 obj
 appsettings.json
-local.settings.json
+templocalsettings.json
 .python_packages
 
 # other files to be ignored
@@ -134,3 +134,4 @@ requirements.txt
 .vscode
 proxies.json
 sample.dat
+templatelocalsettings.json

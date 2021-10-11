@@ -1,0 +1,14 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "cog_key":"<your service key goes here>",
+    "cog_service_endpoint": "<your service end point url goes here>",
+    "service_region":"<your service region goes here>",
+    "blob_connection_string": "<your blob SAS connection URL goes here>",
+    "input_container_name": "<your input container for the source file goes here>",
+    "output_container_name": "<your output container for the source file goes here>",
+    "input_filename": "<your input file name that needs to processed goes here>"
+  }
+}
